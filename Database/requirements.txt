@@ -1,2 +1,5 @@
 rebrick
 python-dotenv
+aiohttp
+asyncpg
+sqlite3
